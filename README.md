@@ -1,5 +1,3 @@
-# SKH
-Painel Solar
 solar-ai-project/
 │
 ├── README.md                ← Descrição do projeto (já pronta)
